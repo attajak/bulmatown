@@ -14,3 +14,7 @@ description: >-
 github: attajak
 twitter: attajak
 
+bulmatown_theme:
+  image_sizes:
+    embed: image
+    hero: image_hero
